@@ -1,5 +1,7 @@
 # NRC Maze Robot Tutorial
 
+![robot](robot.jpeg)
+
 ## About
 I was going to participate in the National Robotics Challenge as part of my high school’s Engineering Team that I lead until some stuff happened. However, I am making this tutorial under the CC BY-NC-ND license so that the designs and code are accessible to anyone. If you used this tutorial or found it helpful, I would appreciate if you starred it or even shared it with your friends.
 
